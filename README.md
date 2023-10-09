@@ -3,4 +3,5 @@ proxied lastfm name availability checker
 
 simple
 
-![image](https://github.com/8C/lastfmcheck/assets/26947031/61e52aa2-35c4-4f4d-9db6-6b5311069591)
+![image](https://github.com/8C/lastfmcheck/assets/26947031/8628ae7e-3630-48d2-8d2b-5b59359bff23)
+
